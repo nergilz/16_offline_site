@@ -1,6 +1,17 @@
-# New Site Template
+## New Site Template
 
-[TODO. There will be project description]
+---
+
+This code make run offline, all requirements in dir with project.
+
+### Discriptions
++ in dir:
++ bootstrap-3-3-7
++ ie10-viewport-bug-workarounde.css
++ jquery.js
++ jumbotron.css
+
+---
 
 # Project Goals
 
