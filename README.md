@@ -5,7 +5,7 @@
 This code make run offline, all requirements in dir with project.
 
 ### Discriptions
-+ in dir:
++ in project:
 + bootstrap-3-3-7
 + ie10-viewport-bug-workarounde.css
 + jquery.js
